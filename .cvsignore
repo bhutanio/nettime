@@ -1,0 +1,10 @@
+*.dcu
+*.exe
+*.local
+*.rsm
+*.map
+*.identcache
+*.tgw
+*.tgs
+__history
+ModelSupport

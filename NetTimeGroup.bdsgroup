@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{93DBB630-146F-4A86-87CE-D4EE1E5EB163}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="nettime.exe">nettime.bdsproj</Projects>
+      <Projects Name="NeTmSvNT.exe">NeTmSvNT.bdsproj</Projects>
+      <Projects Name="NeTmSv95.exe">NeTmSv95.bdsproj</Projects>
+      <Projects Name="SvcCfg.exe">SvcCfg.bdsproj</Projects>
+      <Projects Name="Targets">nettime.exe NeTmSvNT.exe NeTmSv95.exe SvcCfg.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

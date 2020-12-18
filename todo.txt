@@ -1,0 +1,35 @@
+Bug Fixes:
+
+AutoConfig AV and/or reboot
+Win98 hang on shutdown or restart
+Incompatible with NTP4?
+Non-admin user permissions on the NetTime key
+Upgrade installs have service install error messages
+
+New Features:
+
+Handle NTP kiss-of-death packet
+Central server where servers.ini is stored
+Better behavior when user resets time from Control Panel
+NTP Broadcast client & server
+Debug logging / failure reporting (via NT event log? e-mail?)
+Display only (don't set the PC clock, just display a time)
+Context help for all screens
+Unattended client deploy
+NT user security
+One-shot sync via command line/batch file
+World time display
+Proxy server support (SOCKSified NetTime?)
+Configure IP addresses allowed to connect to this server
+NTP security
+Interoperability testing
+Clock Chimes
+Maintain system drift information
+Time servers from DHCP options
+Control Panel applet
+Clock slew measurement & correction, even when offline
+Automatically calculated sync intervals based on desired accuracy
+Some way to tell visually if some but not all servers are failing
+Give user the ability to configure whether the service and GUI start at load
+Give 95/98 user the ability to see if service is running & stop it
+GPS sync via NMEA device
